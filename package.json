@@ -1,0 +1,23 @@
+{
+  "name": "express-mysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rizkimalik-outlook/express-mysql.git"
+  },
+  "keywords": [
+    "express",
+    "js"
+  ],
+  "author": "malik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rizkimalik-outlook/express-mysql/issues"
+  },
+  "homepage": "https://github.com/rizkimalik-outlook/express-mysql#readme"
+}
